@@ -21,3 +21,4 @@ Examples that illustrate the different code vulnerabilities according to CWE.
 - [CWE-476](CWE-476) (Null pointer dereference)
 - [CWE-665](CWE-665) (Improper initialization)
 - [CWE-787](CWE-787) (Out-of-bounds Write - TBD)
+- test
